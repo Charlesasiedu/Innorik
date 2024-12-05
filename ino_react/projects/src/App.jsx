@@ -1,13 +1,13 @@
-import Entry from "./components/Entry"
-import Header from "./components/Header"
+import Header from "./chef_claude/Header"
+import Main from "./chef_claude/main"
 
 const App = () => {
  
   return (
-    <div>
-      <Header/>
-      <Entry/>
-    </div>
+    <>
+    <Header/>
+    <Main/>
+    </>
   )
 }
 

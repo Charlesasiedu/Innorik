@@ -10,7 +10,10 @@ export default {
       colors: {
         primary: "#1182c5",
         secondary: "#8B5CF6",
-        headerbg: "#F55A5A"
+        headerbg: "#F55A5A",
+        cpurple:"#AD1FEA",
+        cblue: "#4661E6",
+        cblueblack:"#4661E6"
       },
       container:{
         center: "true",
@@ -23,4 +26,6 @@ export default {
   },
   plugins: [],
 }
+
+
 

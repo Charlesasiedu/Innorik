@@ -1,4 +1,4 @@
-import japan from "../assets/japan.jpg"
+import japan from "./images/japan.jpg"
 
 export default [
         {
